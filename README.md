@@ -56,7 +56,9 @@
   • Discord     : kaspy005
 ```
 
-<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+  <img alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 ## Tech Stack
 
