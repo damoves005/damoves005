@@ -56,7 +56,9 @@
   • Discord     : kaspy005
 ```
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="right">
+  <img alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
