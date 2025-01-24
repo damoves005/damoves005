@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jan Kasper
+# AYOOOO! 👋 I'm Jan Kasper
 
 ```
                                                     :X&&&&&&&&&&&&&&X+:
@@ -44,16 +44,10 @@
 ```
 
 ```
-⚡ OS           : Windows 11, iOS, Linux
-🕒 Uptime       : 28 Years
-🛠️ IDE          : VSCode
-
 💻 Programming  : JavaScript, PHP, MySQL
 🌐 Computer     : HTML, CSS, JSON, Liquid
 🗣️ Languages    : English, Tagalog, Ilocos
 
-🎮 Software     : Playing Basketball, Travelling, Outdoor Camping
-🔧 Hardware     : Overclocking, Building PC
 
 📫 Contact
   • Email       : kasperudaundo005@gmail.com
@@ -61,6 +55,8 @@
   • LinkedIn    : www.linkedin.com/in/kasper-udaundo
   • Discord     : kaspy005
 ```
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## Tech Stack
 
