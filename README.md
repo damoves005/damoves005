@@ -1,4 +1,6 @@
-# AYOOOO! 👋 I'm Jan Kasper
+# AYOOOO! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=F7AAC4&width=435&lines=Hello%2C+I'm+Jan+Kasper+Udaundo;Web+Developer)](https://git.io/typing-svg)
 
 ```
                                                     :X&&&&&&&&&&&&&&X+:
@@ -55,10 +57,6 @@
   • LinkedIn    : www.linkedin.com/in/kasper-udaundo
   • Discord     : kaspy005
 ```
-
-<div align="center">
-  <img alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
 
 ## Connect With Me:
 
