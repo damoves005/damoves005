@@ -3,59 +3,46 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=F7AAC4&width=435&lines=Hello%2C+I'm+Jan+Kasper+Udaundo;Web+Developer)](https://git.io/typing-svg)
 
 ```
-                                                    :X&&&&&&&&&&&&&&X+:
-                                                 :$&&&&&&&&&&&&&&&&&&&&&$+:
-                                             ;&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$
-                                           x&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+
-                                         X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-                                       ;&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$
-                                      X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+
-                                     ;&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$
-                                     ;&&&&&&&&&&&&&&&&&$$&&&&&&&$$XXX&&&&&&&&&&&&&&&&
-                                     +&&&&&&&&&$$XXX$$$&&&&&$Xx++++xX$$&&&&&&&&&&&&&&;
-                                     ;&&&&&&&&Xxxxxxx++xXXx++;;::::+XXxxXXX$$$&&&&&&&
-                                       &&&&&&&X++++++;;;;;:::::::::::;;;;+++xxxX&&&&&X
-                                       X&&&&&x+++X$$XXxx++;;:::::::::;xXX$X$$$XxX&&&&;
-                                       $&&&X+++++;;;;::;+++;;;:::;;;++;;;;;++xx+X&&$
-                                       +&&$x+;;;;++xxxxxx+++;;:::;+++++++x+++++++$&;
-                                       x&&$++;;;+xxXxX&X+xx;;;:::;;;x+X&x;$$x+;;+x&X:
-                                       +xX$++;;;;;;;:::::::;;;:::;;;::::;;;;;;;;;x$X:
-                                       ;;xX++;;;:::::::::::;;:::::;;::::::::::;;;+X;:
-                                       ::+x++;;:::::::::::;;:::.:::;;:..:::::::;;+x;
-                                        ;+x++;;;:::::::::;::;;;:;;;:::...::::;;;;+x;
-                                        ;;++++;;;;:::::::;++;;+++++++;:.::::;;;;+x+;
-                                        ;;xx+++;;;;::::::::;;:::::;;;::::::;;;;++x+:
-                                        :+x++++;;;;;;;;;;;;;;;:;;;;;;;;;;;;;;+++x;
-                                            +x+++++;;;++xXXXxxx+++xxxXXXx++;;++++x
-                                           :xx+++++;;+x+++++;;:::;;+++++++++++++;
-                                            +Xx+++++;+;;;++xxxXxxxxx+++;+++++++x
-                                             XXxxxx++x++;;;::::::::::;;+xx+++xX;
-                                          ;x.;$Xxxxxxxx++++;;:::;:;;;+++xxxxxX$
-                                        +$$:.:XX$XXXXXXxxxxx++++++++xxXXXXX$&$X$;
-                                       X&&x..:xxX$$$$$$$XXXXXXXxXXXX$X$&$$&&$X$&$$Xx+
-                                   :+XX$$$:..$xxxxX$$$$$$$$$$$$$$$$$&&&&&&$XXX&$$$XXXXXXx+:
-                             ;xX$$$$$$$$$X...$x+++xXX$$&$$XXXXXXX$$$$&&&$XxxX&&$$$$$XXXXXXXXXx+:
-                          XXXXXXXX$$$$$$$x....:+++++xxxXX$$$$$$$$$$$$XXxxxxX$&$$$$$XX$XXXXXXXXXXX
-                          XX$$XX$$$X$$$$$+.....;+++++++xxxxXXXXXXXXXxxxxxxxX$&$X$$$XXXXXXXXXXXXXX
-                          X$$$$$$$$$$$$XX;......+x+++;++++xxxxxxxxxxxxx+xxxXX$$$XX$X$$$$XXXXXXXXX
-                          X$$$$$$$$$X$X$$:.......+xx++++;;+++xxxxx++++++xxxx++$XX$$$XX$$XXXXXXXXX
-                          X$X$X$$$$$$$$$$;........:x+;+;;;;;++++++++++++++++.;$$XXXXXXX$XXXXXXXXX
-                          X$$$$XX$$$$X$$$X:.........:+..:;;;;;;;;;;;;;:...::.;$X$X$$$X$&$$XX$$XXX
-                          XXXX$$$$$X$$$$Xx........;$Xx$$$$$Xx;;;;;;+X....;;..+XXXX$$$$&$$XXXXX$XX
-                          $X$$$$$$$$$$$$$x.......+xx$&&&&$xXX;::;XXX:...;Xx..:X$XXXX$&$$$$$$X$XXX
-```
-
-```
-💻 Programming  : JavaScript, PHP, MySQL
-🌐 Computer     : HTML, CSS, JSON, Liquid
-🗣️ Languages    : English, Tagalog, Ilocos
-
-
-📫 Contact
-  • Email       : kasperudaundo005@gmail.com
-  • Website     : jankasperdev.ca
-  • LinkedIn    : www.linkedin.com/in/kasper-udaundo
-  • Discord     : kaspy005
+                                 :X&&&&&&&&&&&&&&X+:
+                              :$&&&&&&&&&&&&&&&&&&&&&$+:
+                          ;&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$
+                        x&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+
+                      X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+                    ;&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$
+                   X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+
+                  ;&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$
+                  ;&&&&&&&&&&&&&&&&&$$&&&&&&&$$XXX&&&&&&&&&&&&&&&&                              💻 Programming  : JavaScript, PHP, MySQL
+                  +&&&&&&&&&$$XXX$$$&&&&&$Xx++++xX$$&&&&&&&&&&&&&&;                             🌐 Computer     : HTML, CSS, JSON, Liquid
+                  ;&&&&&&&&Xxxxxxx++xXXx++;;::::+XXxxXXX$$$&&&&&&&                              🗣️ Languages    : English, Tagalog, Ilocos
+                    &&&&&&&X++++++;;;;;:::::::::::;;;;+++xxxX&&&&&X
+                    X&&&&&x+++X$$XXxx++;;:::::::::;xXX$X$$$XxX&&&&;                              • Email       : kasperudaundo005@gmail.com
+                    $&&&X+++++;;;;::;+++;;;:::;;;++;;;;;++xx+X&&$                                • Website     : jankasperdev.ca
+                    +&&$x+;;;;++xxxxxx+++;;:::;+++++++x+++++++$&;                                • LinkedIn    : www.linkedin.com/in/kasper-udaundo
+                    x&&$++;;;+xxXxX&X+xx;;;:::;;;x+X&x;$$x+;;+x&X:                               • Discord     : kaspy005
+                    +xX$++;;;;;;;:::::::;;;:::;;;::::;;;;;;;;;x$X:
+                    ;;xX++;;;:::::::::::;;:::::;;::::::::::;;;+X;:
+                    ::+x++;;:::::::::::;;:::.:::;;:..:::::::;;+x;
+                     ;+x++;;;:::::::::;::;;;:;;;:::...::::;;;;+x;
+                     ;;++++;;;;:::::::;++;;+++++++;:.::::;;;;+x+;
+                     ;;xx+++;;;;::::::::;;:::::;;;::::::;;;;++x+:
+                     :+x++++;;;;;;;;;;;;;;;:;;;;;;;;;;;;;;+++x;
+                         +x+++++;;;++xXXXxxx+++xxxXXXx++;;++++x
+                        :xx+++++;;+x+++++;;:::;;+++++++++++++;
+                         +Xx+++++;+;;;++xxxXxxxxx+++;+++++++x
+                          XXxxxx++x++;;;::::::::::;;+xx+++xX;
+                       ;x.;$Xxxxxxxx++++;;:::;:;;;+++xxxxxX$
+                     +$$:.:XX$XXXXXXxxxxx++++++++xxXXXXX$&$X$;
+                    X&&x..:xxX$$$$$$$XXXXXXXxXXXX$X$&$$&&$X$&$$Xx+
+                :+XX$$$:..$xxxxX$$$$$$$$$$$$$$$$$&&&&&&$XXX&$$$XXXXXXx+:
+          ;xX$$$$$$$$$X...$x+++xXX$$&$$XXXXXXX$$$$&&&$XxxX&&$$$$$XXXXXXXXXx+:
+       XXXXXXXX$$$$$$$x....:+++++xxxXX$$$$$$$$$$$$XXxxxxX$&$$$$$XX$XXXXXXXXXXX
+       XX$$XX$$$X$$$$$+.....;+++++++xxxxXXXXXXXXXxxxxxxxX$&$X$$$XXXXXXXXXXXXXX
+       X$$$$$$$$$$$$XX;......+x+++;++++xxxxxxxxxxxxx+xxxXX$$$XX$X$$$$XXXXXXXXX
+       X$$$$$$$$$X$X$$:.......+xx++++;;+++xxxxx++++++xxxx++$XX$$$XX$$XXXXXXXXX
+       X$X$X$$$$$$$$$$;........:x+;+;;;;;++++++++++++++++.;$$XXXXXXX$XXXXXXXXX
+       X$$$$XX$$$$X$$$X:.........:+..:;;;;;;;;;;;;;:...::.;$X$X$$$X$&$$XX$$XXX
+       XXXX$$$$$X$$$$Xx........;$Xx$$$$$Xx;;;;;;+X....;;..+XXXX$$$$&$$XXXXX$XX
+       $X$$$$$$$$$$$$$x.......+xx$&&&&$xXX;::;XXX:...;Xx..:X$XXXX$&$$$$$$X$XXX
 ```
 
 ## Connect With Me:
