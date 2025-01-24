@@ -60,13 +60,17 @@
 
 ## Connect With Me:
 
+> You can connect with me through my links below:
+
 <p align="left">
 <a href="https://www.linkedin.com/in/kasper-udaundo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nlumapac" height="30" width="40" /></a>
 <a href="https://www.facebook.com/404.tinsanity05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nino.angelo.lumapac" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tabachoikaspy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mapaks13" height="30" width="40" /></a>
 </p>
 
-## Tech Stack
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am interested in:
 
 <table align="center">
   <tr>
