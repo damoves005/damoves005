@@ -16,7 +16,7 @@
               ;&&&&&&&&Xxxxxxx++xXXx++;;::::+XXxxXXX$$$&&&&&&&    🗣️ Languages    : English, Tagalog, Ilocano
                 &&&&&&&X++++++;;;;;:::::::::::;;;;+++xxxX&&&&&X
                 X&&&&&x+++X$$XXxx++;;:::::::::;xXX$X$$$XxX&&&&;   • Email       : kasperudaundo005@gmail.com
-                $&&&X+++++;;;;::;+++;;;:::;;;++;;;;;++xx+X&&$     • Website     : jankasperdev.ca
+                $&&&X+++++;;;;::;+++;;;:::;;;++;;;;;++xx+X&&$     • Website     : https://kasperdev-portfolio.netlify.app/
                 +&&$x+;;;;++xxxxxx+++;;:::;+++++++x+++++++$&;     • LinkedIn    : www.linkedin.com/in/kasper-udaundo
                 x&&$++;;;+xxXxX&X+xx;;;:::;;;x+X&x;$$x+;;+x&X:    • Discord     : kaspy005
                 +xX$++;;;;;;;:::::::;;;:::;;;::::;;;;;;;;;x$X:
