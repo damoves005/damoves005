@@ -13,7 +13,7 @@
               ;&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$
               ;&&&&&&&&&&&&&&&&&$$&&&&&&&$$XXX&&&&&&&&&&&&&&&&    💻 Programming  : JavaScript, PHP, MySQL
               +&&&&&&&&&$$XXX$$$&&&&&$Xx++++xX$$&&&&&&&&&&&&&&;   🌐 Computer     : HTML, CSS, Bootstrap, React, JSON, Liquid
-              ;&&&&&&&&Xxxxxxx++xXXx++;;::::+XXxxXXX$$$&&&&&&&    🗣️ Languages    : English, Tagalog, Ilocano
+              ;&&&&&&&&Xxxxxxx++xXXx++;;::::+XXxxXXX$$$&&&&&&&
                 &&&&&&&X++++++;;;;;:::::::::::;;;;+++xxxX&&&&&X
                 X&&&&&x+++X$$XXxx++;;:::::::::;xXX$X$$$XxX&&&&;   • Email       : kasperudaundo005@gmail.com
                 $&&&X+++++;;;;::;+++;;;:::;;;++;;;;;++xx+X&&$     • Website     : https://kasperdev-portfolio.netlify.app/
